@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Environment
-![Environment](https://go-skill-icons.vercel.app/api/icons?i=nixos,helix,wezterm,zen,androidstudio&perline=7)
+![Environment](https://go-skill-icons.vercel.app/api/icons?i=nixos,helix,ghostty,zellij,zen,androidstudio&perline=7)
 
 ### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=haskell,rust,kotlin,gleam,elm,elixir,typescript,perl&perline=7)
